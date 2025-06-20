@@ -1,0 +1,4 @@
+yara-python
+pefile
+requests
+scikit-learn
